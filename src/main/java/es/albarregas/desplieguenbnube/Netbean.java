@@ -13,5 +13,5 @@ public class Netbean {
     int i=5;
     String saludo="Hola";
     int p=i+3;
-    String contesta;
+    String contesta="no quiero responder";
 }
